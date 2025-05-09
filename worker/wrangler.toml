@@ -1,0 +1,7 @@
+name = "shortlink-worker"
+type = "javascript"
+account_id = "596e3ac2a1743bc0c7843feedf29d334"
+workers_dev = true
+
+[build]
+upload.format = "modules"
